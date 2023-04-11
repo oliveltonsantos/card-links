@@ -24,7 +24,7 @@ Gosto deste canal tanto pela didática quanto pela variedade dos projetos ensina
 
 Acesse o site pronto neste link [aqui](https://oliveltonsantos.github.io/card-links)!
 
-https://user-images.githubusercontent.com/124373744/230941703-0f153eb5-f3e5-446a-843e-44b4d5d9cf10.mp4
+
 
 ##
 
