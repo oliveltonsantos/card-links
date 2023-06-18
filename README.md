@@ -8,8 +8,8 @@ Gosto deste canal tanto pela didática quanto pela variedade dos projetos ensina
 
 ### 🛠 Tecnologias utilizadas:
 
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 
 ##
 
