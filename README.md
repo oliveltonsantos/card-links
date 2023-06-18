@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/124373744/231266640-e5dd2886-dafe-453a
 
 ### 💬 Sugestões:
 
-Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [Instagram](https://www.instagram.com/navegandoemc0d1gos) ou [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
+Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/olivelton-santos).
 
 ##
 
