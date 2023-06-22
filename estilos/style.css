@@ -15,7 +15,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
     height: 100vh;
     background: #000000;
 }
@@ -66,12 +65,6 @@ main a {
 
 main a:hover {
     opacity: .85;
-}
-
-footer {
-    margin-top: 20px;
-    color: #fff;
-    font-size: 1rem;
 }
 
 @media (max-width: 520px) {
