@@ -69,7 +69,7 @@ main a:hover {
 
 @media (max-width: 520px) {
     section {
-        width: 90%;
+        width: 80%;
         padding: 30px;
     }
     header img {
