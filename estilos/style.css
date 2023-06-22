@@ -23,6 +23,7 @@ section {
     padding: 45px;
     background-color: #1D1D1D;
     width: 500px;
+    height: auto;
     border: 1px solid #71AE3F;
     border-radius: 15px;
     display: flex;
@@ -69,7 +70,7 @@ main a:hover {
 
 @media (max-width: 520px) {
     section {
-        width: 80%;
+        width: 90%;
         padding: 30px;
     }
     header img {
