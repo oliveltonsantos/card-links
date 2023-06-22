@@ -68,8 +68,7 @@ main a:hover {
 }
 
 footer {
-    position: absolute;
-    bottom: 10px;
+    margin-top: 20px
     color: #fff;
     font-size: 1rem;
 }
