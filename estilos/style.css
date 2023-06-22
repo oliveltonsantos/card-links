@@ -26,6 +26,7 @@ section {
     border: 1px solid #71AE3F;
     border-radius: 15px;
     display: flex;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
     gap: 20px;
