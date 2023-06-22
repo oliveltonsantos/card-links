@@ -67,7 +67,7 @@ main a:hover {
     opacity: .85;
 }
 
-.footer {
+footer {
     position: absolute;
     bottom: 10px;
     color: #fff;
