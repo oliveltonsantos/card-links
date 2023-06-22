@@ -15,7 +15,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    width: 100vw;
     background: #000000;
 }
 
@@ -23,7 +23,6 @@ section {
     padding: 45px;
     background-color: #1D1D1D;
     width: 500px;
-    height: 500px;
     border: 1px solid #71AE3F;
     border-radius: 15px;
     display: flex;
