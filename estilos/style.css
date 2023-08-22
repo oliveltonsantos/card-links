@@ -59,13 +59,15 @@ main a {
     padding: 15px 0;
     text-decoration: none;
     color: white;
-    border-radius: 3px;
-    box-shadow: 10px 10px #fff;
+    background-color: #000000;
+    border: 1px solid #71AE3F;
+    border-radius: 30px;
     transition: all .5s ease-in-out;
 }
 
 main a:hover {
-    opacity: .85;
+    color: #000000;
+    background-color: #71AE3F;
 }
 
 @media (max-width: 520px) {
@@ -73,17 +75,20 @@ main a:hover {
         width: 90%;
         padding: 30px;
     }
+
     header img {
         width: 100px;
     }
+
     header h3 {
         font-size: 1.3rem;
     }
+
     main {
         gap: 15px;
     }
+
     main a {
         padding: 10px 0;
-        box-shadow: 5px 5px #fff;
     }
 }
