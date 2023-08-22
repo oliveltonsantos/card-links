@@ -23,7 +23,6 @@ section {
     padding: 45px;
     background-color: #1D1D1D;
     width: 500px;
-    border: 1px solid #71AE3F;
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -31,7 +30,6 @@ section {
     flex-direction: column;
     gap: 20px;
     text-align: center;
-    box-shadow: 2px 15px 20px rgba(61, 61, 61, .4);
 }
 
 header img {
@@ -45,6 +43,7 @@ header h3 {
 
 header p {
     color: #fff;
+    font-weight: 500;
 }
 
 main {
@@ -60,7 +59,7 @@ main a {
     text-decoration: none;
     color: white;
     background-color: #000000;
-    border: 1px solid #71AE3F;
+    border: 2px solid #71AE3F;
     border-radius: 30px;
     transition: all .5s ease-in-out;
 }
