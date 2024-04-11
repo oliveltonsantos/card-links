@@ -4,6 +4,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/**********************************/
+/* PSEUDO-CLASSE
+/**********************************/
+
+:root {
+    --cor-primaria: #0d1117;
+    --cor-secundaria: #24292f;
+    --cor-terciaria: #ffffff;
+    --cor-quartenaria: #71ae3f;
+    --cor-borda: #30363d;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Inter';
+}
+
+/**********************************/
+/* RESETE
+/**********************************/
+
 * {
     margin: 0;
     padding: 0;
@@ -11,17 +30,27 @@
     font-family: 'Inter', sans-serif;
 }
 
+
+/**********************************/
+/* BODY
+/**********************************/
+
 body {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: #000000;
+    background: var(--cor-primaria);
 }
+
+
+/**********************************/
+/* SEÇÃO
+/**********************************/
 
 section {
     padding: 45px;
-    background-color: #1D1D1D;
+    background-color: var(--cor-secundaria);
     width: 500px;
     border-radius: 15px;
     display: flex;
@@ -31,6 +60,11 @@ section {
     gap: 20px;
     text-align: center;
 }
+
+
+/**********************************/
+/* HEADER
+/**********************************/
 
 header img {
     width: 140px;
@@ -46,6 +80,11 @@ header p {
     font-weight: 500;
 }
 
+
+/**********************************/
+/* MAIN
+/**********************************/
+
 main {
     display: flex;
     flex-direction: column;
@@ -58,8 +97,8 @@ main a {
     padding: 15px 0;
     text-decoration: none;
     color: white;
-    background-color: #000000;
-    border: 2px solid #71AE3F;
+    background-color: var(--cor-primaria);
+    border: 1px solid: var(--cor-borda);
     border-radius: 30px;
     transition: all .5s ease-in-out;
 }
@@ -69,6 +108,11 @@ main a:hover {
     background-color: #71AE3F;
     scale: 1.1;
 }
+
+
+/**********************************/
+/* MEDIA QUERIES
+/**********************************/
 
 @media (max-width: 520px) {
     section {
