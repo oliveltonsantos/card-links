@@ -9,11 +9,11 @@
 /**********************************/
 
 :root {
-    --cor-primaria: #0d1117;
-    --cor-secundaria: #24292f;
-    --cor-terciaria: #ffffff;
+    --cor-primaria: #f8f9fa;
+    --cor-secundaria: #ffffff;
+    --cor-terciaria: #727272;
     --cor-quartenaria: #71ae3f;
-    --cor-borda: #30363d;
+    --cor-borda: #d2d2d2;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Inter';
@@ -52,6 +52,7 @@ section {
     padding: 45px;
     background-color: var(--cor-secundaria);
     width: 500px;
+    border: 1px solid var(--cor-borda);
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -76,7 +77,7 @@ header h3 {
 }
 
 header p {
-    color: #fff;
+    color: var(--cor-terciaria);
     font-weight: 500;
 }
 
@@ -96,15 +97,15 @@ main a {
     background: #71AE3F;
     padding: 15px 0;
     text-decoration: none;
-    color: white;
+    color: var(--cor-terciaria);
     background-color: var(--cor-primaria);
-    border: 1px solid: var(--cor-borda);
+    border: 1px solid var(--cor-borda);
     border-radius: 30px;
     transition: all .5s ease-in-out;
 }
 
 main a:hover {
-    color: #000000;
+    color: var(--cor-secundaria);
     background-color: #71AE3F;
     scale: 1.1;
 }
