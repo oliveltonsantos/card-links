@@ -107,7 +107,6 @@ main a {
 main a:hover {
     color: var(--cor-secundaria);
     background-color: #71AE3F;
-    scale: 1.1;
 }
 
 
