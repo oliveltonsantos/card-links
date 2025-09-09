@@ -82,6 +82,7 @@ header h3 {
 header p {
     color: var(--cor-terciaria);
     font-weight: 500;
+    margin: 10px;
 }
 
 
